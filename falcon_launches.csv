@@ -1,0 +1,72 @@
+Flight No.,Date and time (UTC),"Version, Booster [b]",Launch site,Payload[c],Payload mass,Orbit,Customer,Launch outcome,Booster landing
+1,"4 June 2010,18:45",F9 v1.0[7]B0003.1[8],"CCAFS,SLC-40",Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure[9][10](parachute)
+2,"8 December 2010,15:43[13]",F9 v1.0[7]B0004.1[8],"CCAFS,SLC-40",Dragondemo flight C1(Dragon C101),,LEO(ISS),NASA(COTS)NRO,Success[9],Failure[9][14](parachute)
+3,"22 May 2012,07:44[17]",F9 v1.0[7]B0005.1[8],"CCAFS,SLC-40",Dragondemo flight C2+[18](Dragon C102),"525 kg (1,157 lb)[19]",LEO(ISS),NASA(COTS),Success[20],No attempt
+4,"8 October 2012,00:35[21]",F9 v1.0[7]B0006.1[8],"CCAFS,SLC-40",SpaceX CRS-1[22](Dragon C103),"4,700 kg (10,400 lb)",LEO(ISS),NASA(CRS),Success,No attempt
+Orbcomm-OG2[23],172 kg (379 lb)[24],LEO,Orbcomm,Partial failure[25]
+5,"1 March 2013,15:10",F9 v1.0[7]B0007.1[8],"CCAFS,SLC-40",SpaceX CRS-2[22](Dragon C104),"4,877 kg (10,752 lb)",LEO(ISS),NASA(CRS),Success,No attempt
+6,"29 September 2013,16:00[30]",F9 v1.1[7]B1003[8],"VAFB,SLC-4E",CASSIOPE[22][31],"500 kg (1,100 lb)",Polar orbitLEO,MDA,Success[30],Uncontrolled(ocean)[d]
+7,"3 December 2013,22:41[34]",F9 v1.1B1004,"CCAFS,SLC-40",SES-8[22][35][36],"3,170 kg (6,990 lb)",GTO,SES,Success[37],No attempt[38]
+8,"6 January 2014,22:06[41]",F9 v1.1,"CCAFS,SLC-40",Thaicom 6[22],"3,325 kg (7,330 lb)",GTO,Thaicom,Success[42],No attempt[43]
+9,"18 April 2014,19:25[21]",F9 v1.1,"Cape Canaveral,LC-40",SpaceX CRS-3[22](Dragon C105),"2,296 kg (5,062 lb)[45]",LEO(ISS),NASA(CRS),Success,Controlled(ocean)[d][46]
+10,"14 July 2014,15:15",F9 v1.1,"Cape Canaveral,LC-40",Orbcomm-OG2-1(6 satellites)[22],"1,316 kg (2,901 lb)",LEO,Orbcomm,Success[51],Controlled(ocean)[d][46]
+11,"5 August 2014,08:00",F9 v1.1,"Cape Canaveral,LC-40",AsiaSat 8[22][54][55],"4,535 kg (9,998 lb)",GTO,AsiaSat,Success[56],No attempt[57]
+12,"7 September 2014,05:00",F9 v1.1B1011[8],"Cape Canaveral,LC-40",AsiaSat 6[22][54][58],"4,428 kg (9,762 lb)",GTO,AsiaSat,Success[59],No attempt
+13,"21 September 2014,05:52[21]",F9 v1.1B1010[8],"Cape Canaveral,LC-40",SpaceX CRS-4[22](DragonC106.1),"2,216 kg (4,885 lb)[62]",LEO(ISS),NASA(CRS),Success[63],Uncontrolled(ocean)[d][64]
+14,"10 January 2015,09:47[67]",F9 v1.1B1012[8],"Cape Canaveral,LC-40",SpaceX CRS-5[68](Dragon C107),"2,395 kg (5,280 lb)[69]",LEO(ISS),NASA(CRS),Success[70],Failure(drone ship)
+15,"11 February 2015,23:03[72]",F9 v1.1B1013[8],"Cape Canaveral,LC-40",DSCOVR[68][73],"570 kg (1,260 lb)",HEO(Sun–Earth L1insertion),USAFNASANOAA,Success,Controlled(ocean)[d]
+16,"2 March 2015,03:50[21][76]",F9 v1.1B1014[8],"Cape Canaveral,LC-40",ABS-3AEutelsat 115 West B[68],"4,159 kg (9,169 lb)",GTO,ABSEutelsat,Success,No attempt[77]
+17,"14 April 2015,20:10[21]",F9 v1.1B1015[8],"Cape Canaveral,LC-40",SpaceX CRS-6[68](DragonC108.1),"1,898 kg (4,184 lb)[82]",LEO(ISS),NASA(CRS),Success,Failure[83](drone ship)
+18,"27 April 2015,23:03[86]",F9 v1.1B1016[8],"Cape Canaveral,LC-40",TürkmenÄlem 52°E / MonacoSAT[68][87],"4,707 kg (10,377 lb)",GTO,Turkmenistan NationalSpace Agency[88],Success,No attempt[89]
+19,"28 June 2015,14:21[21][91]",F9 v1.1B1018[8],"Cape Canaveral,LC-40",SpaceX CRS-7[68](Dragon C109),"1,952 kg (4,303 lb)[92]",LEO(ISS),NASA(CRS),Failure[93](in flight),Precluded[94](drone ship)
+20,"22 December 2015,01:29[97]",F9 FTB1019.1[98],"Cape Canaveral,LC-40",Orbcomm-OG2-2(11 satellites)[22][97],"2,034 kg (4,484 lb)",LEO,Orbcomm,Success,Success[99](ground pad)
+21,"17 January 2016,18:42[21]",F9 v1.1B1017[8],"VAFB,SLC-4E",Jason-3[68][104],"553 kg (1,219 lb)",LEO,NASA(LSP)NOAACNES,Success,Failure(drone ship)
+22,"4 March 2016,23:35[21]",F9 FTB1020.1[108],"Cape Canaveral,LC-40",SES-9[68][109][110],"5,271 kg (11,621 lb)",GTO,SES,Success,Failure(drone ship)
+23,"8 April 2016,20:43[21]",F9 FTB1021.1[115],"Cape Canaveral,LC-40",SpaceX CRS-8[68][110](Dragon C110.1),"3,136 kg (6,914 lb)[116]",LEO(ISS),NASA(CRS),Success[117],Success[118](drone ship)
+24,"6 May 2016,05:21[21]",F9 FTB1022.1[122],"Cape Canaveral,LC-40",JCSAT-14[123],"4,696 kg (10,353 lb)[124]",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+25,"27 May 2016,21:39[128]",F9 FTB1023.1[129],"Cape Canaveral,LC-40",Thaicom 8[130][131],"3,100 kg (6,800 lb)[132]",GTO,Thaicom,Success,Success[133](drone ship)
+26,"15 June 2016,14:29[21]",F9 FTB1024.1[108],"Cape Canaveral,LC-40",ABS-2AEutelsat 117 West B[68],"3,600 kg (7,900 lb)",GTO,ABSEutelsat,Success,Failure[64](drone ship)
+27,"18 July 2016,04:45[21]",F9 FTB1025.1[129],"Cape Canaveral,LC-40",SpaceX CRS-9[68][141](Dragon C111.1),"2,257 kg (4,976 lb)[142]",LEO(ISS),NASA(CRS),Success,Success(ground pad)
+28,"14 August 2016,05:26",F9 FTB1026.1[108],"Cape Canaveral,LC-40",JCSAT-16,"4,600 kg (10,100 lb)",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+N/A[e],"3 September 2016,07:00(planned)[145]",F9 FTB1028.1[108],"Cape Canaveral,LC-40",Amos-6[146],"5,500 kg (12,100 lb)",GTO,Spacecom,Precluded(failure pre-flight),Precluded(drone ship)
+29,"14 January 2017,17:54",F9 FTB1029.1[151],"VAFB,SLC-4E",Iridium NEXT-1(10 satellites)[152][153],"9,600 kg (21,200 lb)",PolarLEO,Iridium Communications,Success,Success[154](drone ship)
+30,"19 February 2017,14:39",F9 FTB1031.1[8],"KSC,LC-39A",SpaceX CRS-10[141](Dragon C112.1),"2,490 kg (5,490 lb)[160]",LEO(ISS),NASA(CRS),Success,Success(ground pad)
+31,"16 March 2017,06:00",F9 FTB1030.1[163],"KSC,LC-39A",EchoStar 23,"5,600 kg (12,300 lb)[164]",GTO,EchoStar,Success,No attempt[165]
+32,"30 March 2017,22:27",F9 FT♺B1021.2[115],"KSC,LC-39A",SES-10[109][168],"5,300 kg (11,700 lb)[169]",GTO,SES,Success[170],Success(drone ship)
+33,"1 May 2017,11:15",F9 FTB1032.1[129],"KSC,LC-39A",NROL-76[174],Classified,LEO[175],NRO,Success,Success(ground pad)
+34,"15 May 2017,23:21",F9 FTB1034.1[179],"KSC,LC-39A",Inmarsat-5 F4[180],"6,070 kg (13,380 lb)[181]",GTO,Inmarsat,Success,No attempt[165]
+35,"3 June 2017,21:07",F9 FTB1035.1[185],"KSC,LC-39A",SpaceX CRS-11[141](Dragon C106.2 ♺),"2,708 kg (5,970 lb)[186]",LEO(ISS),NASA(CRS),Success,Success(ground pad)
+36,"23 June 2017,19:10",F9 FT♺B1029.2[195],"KSC,LC-39A",BulgariaSat-1[196],"3,669 kg (8,089 lb)[197]",GTO,Bulsatcom,Success,Success(drone ship)
+37,"25 June 2017,20:25",F9 FTB1036.1[198],"VAFB,SLC-4E",Iridium NEXT-2(10 satellites),"9,600 kg (21,200 lb)",LEO,Iridium Communications,Success,Success(drone ship)
+38,"5 July 2017,23:38",F9 FTB1037.1[200],"KSC,LC-39A",Intelsat 35e[201],"6,761 kg (14,905 lb)[202]",GTO,Intelsat,Success,No attempt[165]
+39,"14 August 2017,16:31",F9 B4B1039.1[207],"KSC,LC-39A",SpaceX CRS-12[141](Dragon C113.1),"3,310 kg (7,300 lb)",LEO(ISS),NASA(CRS),Success,Success(ground pad)
+40,"24 August 2017,18:51",F9 FTB1038.1[209],"VAFB,SLC-4E",Formosat-5[210][211],"475 kg (1,047 lb)[212]",SSO,NSPO,Success,Success(drone ship)
+41,"7 September 2017,14:00[215]",F9 B4B1040.1[108],"KSC,LC-39A",Boeing X-37BOTV-5,"4,990 kg (11,000 lb)[216]+ OTV payload",LEO,USAF,Success,Success(ground pad)
+42,"9 October 2017,12:37",F9 B4B1041.1[219],"VAFB,SLC-4E",Iridium NEXT-3(10 satellites)[152],"9,600 kg (21,200 lb)",PolarLEO,Iridium Communications,Success,Success(drone ship)
+43,"11 October 2017,22:53:00",F9 FT♺B1031.2[220],"KSC,LC-39A",SES-11/EchoStar 105,"5,200 kg (11,500 lb)",GTO,SES S.A.EchoStar,Success,Success(drone ship)
+44,"30 October 2017,19:34",F9 B4B1042.1[219],"KSC,LC-39A",Koreasat 5A[222],"3,500 kg (7,700 lb)",GTO,KT Corporation,Success,Success(drone ship)
+45,"15 December 2017,15:36[226]",F9 FT♺B1035.2[227],"Cape Canaveral,SLC-40",SpaceX CRS-13[141](Dragon C108.2 ♺),"2,205 kg (4,861 lb)",LEO(ISS),NASA(CRS),Success,Success(ground pad)
+46,"23 December 2017,01:27[229]",F9 FT♺B1036.2[227],"VAFB,SLC-4E",Iridium NEXT-4(10 satellites)[152],"9,600 kg (21,200 lb)",PolarLEO,Iridium Communications,Success[230],Controlled(ocean)[d][230]
+47,"8 January 2018,01:00[237]",F9 B4B1043.1[238],"CCAFS,SLC-40",Zuma[238][239][240],Classified,LEO,Northrop Grumman[f][238],Success[241],Success(ground pad)
+48,"31 January 2018,21:25[244]",F9 FT♺B1032.2[245],"CCAFS,SLC-40",GovSat-1(SES-16)[246],"4,230 kg (9,330 lb)[247]",GTO,SES,Success[248],Controlled(ocean)[d][248]
+FH 1,"6 February 2018,20:45[253]",Falcon HeavyB1033.1(core)[129],"KSC,LC-39A",Elon Musk's Tesla Roadster[254][255],"~1,250 kg (2,760 lb)[256]",Heliocentric0.99–1.67 AU[256](close toMars transfer orbit),SpaceX,Success[257],Failure[257](drone ship)
+B1023.2[8](side)♺,Success(ground pad)
+B1025.2[8](side)♺,Success(ground pad)
+49,"22 February 2018,14:17[267]",F9 FT♺B1038.2[268],"VAFB,SLC-4E",Paz[269]Tintin A and Tintin B[270],"2,150 kg (4,740 lb)",SSO,HisdesatexactEarthSpaceX,Success[271],No attempt[271]
+50,"6 March 2018,05:33[276]",F9 B4B1044.1[108],"CCAFS,SLC-40",Hispasat 30W-6[277]PODSat[278],"6,092 kg (13,431 lb)[279]",GTO,Hispasat[277]NovaWurks,Success[280],No attempt[281]
+51,"30 March 2018,14:14[285]",F9 B4♺B1041.2[268],"VAFB,SLC-4E",Iridium NEXT-5(10 satellites)[152],"9,600 kg (21,200 lb)",PolarLEO,Iridium Communications,Success[286],No attempt[287]
+52,"2 April 2018,20:30[291]",F9 B4♺B1039.2[292],"CCAFS,SLC-40",SpaceX CRS-14[141](Dragon C110.2 ♺),"2,647 kg (5,836 lb)[292]",LEO(ISS),NASA(CRS),Success[293],No attempt[294]
+53,"18 April 2018,22:51[303]",F9 B4B1045.1[268],"CCAFS,SLC-40",Transiting Exoplanet Survey Satellite(TESS)[304],362 kg (798 lb)[305],HEOforP/2 orbit,NASA(LSP),Success[306],Success[306](drone ship)
+54,"11 May 2018,20:14[310]",F9 B5[311]B1046.1[268],"KSC,LC-39A",Bangabandhu-1[312][313],"3,600 kg (7,900 lb)[314]",GTO,Thales-Alenia/BTRC,Success[315],Success[315](drone ship)
+55,"22 May 2018,19:47[321]",F9 B4♺B1043.2[322],"VAFB,SLC-4E",Iridium NEXT-6(5 satellites)[152][155]GRACE-FO× 2[323][324],"6,460 kg (14,240 lb)[g]",PolarLEO,Iridium CommunicationsGFZ•NASA,Success[327],No attempt[165]
+56,"4 June 2018,04:45[330]",F9 B4♺B1040.2[268],"CCAFS,SLC-40",SES-12[331],"5,384 kg (11,870 lb)[332]",GTO,SES,Success[333],No attempt[165]
+57,"29 June 2018,09:42[335]",F9 B4♺B1045.2[336],"CCAFS,SLC-40",SpaceX CRS-15(Dragon C111.2 ♺),"2,697 kg (5,946 lb)[337]",LEO(ISS),NASA(CRS),Success[338],No attempt[165]
+58,"22 July 2018,05:50[340]",F9 B5B1047.1,"CCAFS,SLC-40",Telstar 19V[341],"7,075 kg (15,598 lb)[342]",GTO[343],Telesat,Success[344],Success[344](drone ship)
+59,"25 July 2018,11:39[348]",F9 B5[349]B1048.1[350],"VAFB,SLC-4E",Iridium NEXT-7(10 satellites)[152],"9,600 kg (21,200 lb)",PolarLEO,Iridium Communications,Success[351],Success[352](drone ship)
+60,"7 August 2018,05:18[353]",F9 B5♺B1046.2[354],"CCAFS,SLC-40",Merah Putih(formerly Telkom 4)[355][356],"5,800 kg (12,800 lb)[357]",GTO,Telkom Indonesia,Success[358],Success[358](drone ship)
+61,"10 September 2018,04:45[361]",F9 B5B1049.1[268],"CCAFS,SLC-40",Telstar 18V/Apstar-5C[341],"7,060 kg (15,560 lb)[361]",GTO[361],Telesat,Success[361],Success[361](drone ship)
+62,"8 October 2018,02:22[363]",F9 B5♺B1048.2[364],"VAFB,SLC-4E",SAOCOM 1A[365][366],"3,000 kg (6,600 lb)[363]",SSO,CONAE,Success[363],Success[363](ground pad)
+63,"15 November 2018,20:46[367]",F9 B5♺B1047.2[268],"KSC,LC-39A",Es'hail 2[368],"5,300 kg (11,700 lb)[369]",GTO,Es'hailSat,Success[370],Success[370](drone ship)
+64,"3 December 2018,18:34:05",F9 B5♺B1046.3[268]SHERPA,"VAFB,SLC-4E",SSO-A(SmallSat Express),"~4,000 kg (8,800 lb)[372]",SSO,Spaceflight Industries,Success[373],Success[373](drone ship)
+65,"5 December 2018,18:16",F9 B5B1050[268],"CCAFS,SLC-40",SpaceX CRS-16(Dragon C112.2♺ ),"2,500 kg (5,500 lb)[382]",LEO(ISS),NASA(CRS),Success,Failure[383](ground pad)
+66,"23 December 2018,13:51[386]",F9 B5B1054[387],"CCAFS,SLC-40",GPS III-01(Vespucci),"4,400 kg (9,700 lb)[388]",MEO,USAF,Success[386],No attempt[386]
